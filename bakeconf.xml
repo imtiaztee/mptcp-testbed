@@ -1,4 +1,4 @@
-<configuration>
+﻿<configuration>
   <modules>
 
     <module name="dce-meta-dev">
@@ -3166,7 +3166,7 @@
         <attribute name="module_directory" value="ns-3-dce"/>
         <attribute name="revision" value="dce-1.11"/>
       </source>
-      <depends_on name="ns-3.34" optional="False"/>
+      <depends_on name="ns-3.33" optional="False"/>
       <depends_on name="elf-loader" optional="True"/>
       <depends_on name="libaspect" optional="True"/>
       <depends_on name="ccnx" optional="True"/>
